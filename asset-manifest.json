@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-clone-two.git/static/css/main.9c12bcd2.css",
-    "main.js": "/react-clone-two.git/static/js/main.26b5bf2d.js",
-    "static/media/img3.jpg": "/react-clone-two.git/static/media/img3.c5ff7ad3f3b0ab9aa49a.jpg",
-    "static/media/img6.jpg": "/react-clone-two.git/static/media/img6.c9ce66cc2398f2376148.jpg",
-    "static/media/img1.jpg": "/react-clone-two.git/static/media/img1.a8d7a7f460bd557580dd.jpg",
-    "static/media/img2.jpg": "/react-clone-two.git/static/media/img2.fad722951d0ac08ac5e3.jpg",
-    "static/media/img5.jpg": "/react-clone-two.git/static/media/img5.58204d593bcd2a5ecafa.jpg",
-    "static/media/img4.jpg": "/react-clone-two.git/static/media/img4.c6351471fc7ddc1ef55e.jpg",
-    "static/media/img.png": "/react-clone-two.git/static/media/img.5b5f5680013ab9db892e.png",
-    "index.html": "/react-clone-two.git/index.html",
-    "main.9c12bcd2.css.map": "/react-clone-two.git/static/css/main.9c12bcd2.css.map",
-    "main.26b5bf2d.js.map": "/react-clone-two.git/static/js/main.26b5bf2d.js.map"
+    "main.css": "/react-clone-two/static/css/main.9c12bcd2.css",
+    "main.js": "/react-clone-two/static/js/main.91f61124.js",
+    "static/media/img3.jpg": "/react-clone-two/static/media/img3.c5ff7ad3f3b0ab9aa49a.jpg",
+    "static/media/img6.jpg": "/react-clone-two/static/media/img6.c9ce66cc2398f2376148.jpg",
+    "static/media/img1.jpg": "/react-clone-two/static/media/img1.a8d7a7f460bd557580dd.jpg",
+    "static/media/img2.jpg": "/react-clone-two/static/media/img2.fad722951d0ac08ac5e3.jpg",
+    "static/media/img5.jpg": "/react-clone-two/static/media/img5.58204d593bcd2a5ecafa.jpg",
+    "static/media/img4.jpg": "/react-clone-two/static/media/img4.c6351471fc7ddc1ef55e.jpg",
+    "static/media/img.png": "/react-clone-two/static/media/img.5b5f5680013ab9db892e.png",
+    "index.html": "/react-clone-two/index.html",
+    "main.9c12bcd2.css.map": "/react-clone-two/static/css/main.9c12bcd2.css.map",
+    "main.91f61124.js.map": "/react-clone-two/static/js/main.91f61124.js.map"
   },
   "entrypoints": [
     "static/css/main.9c12bcd2.css",
-    "static/js/main.26b5bf2d.js"
+    "static/js/main.91f61124.js"
   ]
 }
